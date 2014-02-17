@@ -87,9 +87,13 @@
 			<artifactId>twitter4j-async</artifactId>
 			<version>3.0.5</version>
 		</dependency>
+		<dependency>
+			<groupId>com.tsenyurt</groupId>
+			<artifactId>IsabelleFramework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>Isabelle</finalName>
 	</build>
-	<packaging>war</packaging>
 </project>
