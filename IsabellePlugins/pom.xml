@@ -3,4 +3,11 @@
   <groupId>com.tsenyurt</groupId>
   <artifactId>IsabellePlugins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.tsenyurt</groupId>
+  		<artifactId>IsabelleFramework</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
