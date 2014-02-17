@@ -92,6 +92,11 @@
 			<artifactId>IsabelleFramework</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.tsenyurt</groupId>
+			<artifactId>IsabellePlugins</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>Isabelle</finalName>
