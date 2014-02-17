@@ -6,7 +6,5 @@ import com.tsenyurt.isabelle.framework.IActionPack;
 import com.tsenyurt.isabelle.framework.IProcessingPack;
 
 public interface IIsabellePlugin {
-
-	public List<String> getRegistryWords();
 	public IActionPack processEvents(IProcessingPack ppack);
 }
